@@ -1,8 +1,13 @@
 {
   "name": "run-time-syntax",
   "theme": "syntax",
+<<<<<<< HEAD
   "version": "1.2.0",
   "description": "run-time-syntax : a fork of the seti-syntax with animated bracket highlights.",
+=======
+  "version": "1.0.0",
+  "description": "run-time-syntax : fork of seti-syntax with animated bracket matching and collapsed code block highlights.",
+>>>>>>> origin/master
   "repository": "https://github.com/run-time/run-time-syntax",
   "license": "MIT",
   "engines": {
