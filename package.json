@@ -1,9 +1,9 @@
 {
-  "name": "seti-syntax",
+  "name": "run-time-syntax",
   "theme": "syntax",
-  "version": "0.4.1",
-  "description": "Seti Syntax - A subtle dark colored theme for Atom.",
-  "repository": "https://github.com/jesseweed/seti-syntax",
+  "version": "1.0.0",
+  "description": "run-time-syntax : a fork of the seti-syntax with animated bracket highlights.",
+  "repository": "https://github.com/run-time/run-time-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">1.0"
