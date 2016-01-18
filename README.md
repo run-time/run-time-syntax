@@ -7,5 +7,4 @@ Minor improvements to the Dark Atom Theme -- [Seti Syntax](https://atom.io/theme
  - Animated bracket matching
  - Collapsed code block highlights
 
-![Screenshot](https://github.com/run-time/run-time-syntax/raw/master/animatedbrackets.gif)
-
+![Screenshot](https://github.com/run-time/run-time-syntax/raw/master/screenshot.gif)
