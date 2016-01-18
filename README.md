@@ -10,3 +10,6 @@ Added the following improvements to [Seti Syntax](https://atom.io/themes/seti-sy
 
 
 ### Collapsed code block highlights
+
+![Screenshot](https://github.com/run-time/run-time-syntax/raw/master/screenshot2.gif)
+
