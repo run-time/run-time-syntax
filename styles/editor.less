@@ -69,8 +69,8 @@
   .gutter .line-number.folded,
   .gutter .line-number:after,
   .fold-marker:after {
-    color: #FFF;
-    background: @gutter-text;
+    color: @gutter-background;
+    background: @gutter-text-highlight !important;
   }
 
   // INVISIBLE CHARACTES
@@ -102,6 +102,5 @@
   .line.cursor-line {
     background: @selected-line !important;
   }
-
 
 }
