@@ -1,7 +1,7 @@
 {
   "name": "run-time-dark-syntax",
   "theme": "syntax",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "run-time-dark-syntax is a fork of the dark seti-syntax with animated bracket matching and collapsed code block highlights.",
   "repository": "https://github.com/run-time/run-time-syntax",
   "license": "MIT",
