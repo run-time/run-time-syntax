@@ -1,8 +1,18 @@
-# run-time-syntax
+# Kick your Atom Syntax theme up a notch!
 
-[![Join the chat at https://gitter.im/jesseweed/seti-syntax](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jesseweed/seti-syntax?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+### `run-time-syntax` is an acute yet obtuse Dark Atom Syntax theme
 
-Added the following improvements to [Seti Syntax](https://atom.io/themes/seti-syntax) (dark atom theme) 
+### `run-time-syntax` is son of the honorable [`seti-syntax`](https://atom.io/themes/seti-syntax)
+
+### `run-time-syntax` features animated bracket highlighting
+
+### `run-time-syntax` clearly shows collapsed code blocks
+
+### `run-time-syntax` goes perfect with [`run-time-ui`](https://atom.io/themes/run-time-ui)
+
+### `run-time-syntax` is so LEET it had to start on version `13.37.0`
+
+# It's Run Time!
 
 ### Animated bracket matching
 
@@ -12,4 +22,3 @@ Added the following improvements to [Seti Syntax](https://atom.io/themes/seti-sy
 ### Collapsed code block highlights
 
 ![Screenshot](https://github.com/run-time/run-time-syntax/raw/master/screenshot2.gif)
-
