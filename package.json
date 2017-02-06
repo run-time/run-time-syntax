@@ -1,7 +1,7 @@
 {
   "name": "run-time-syntax",
   "theme": "syntax",
-  "version": "13.37.0",
+  "version": "13.38.0",
   "description": "An acute yet obtuse Dark Atom Syntax theme featuring animated bracket highlighting",
   "repository": "https://github.com/run-time/run-time-syntax",
   "license": "MIT",
