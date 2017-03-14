@@ -2,19 +2,19 @@
 
 // animate matching bracket highlights
 
-@bracket-highlight: #660;
+@bracket-highlight: #aa0;
 
 @-webkit-keyframes bracketanimation {
   from {
-    background-color: @bracket-highlight;
+    background-color: transparent;
     border-color: @bracket-highlight;
   }
   50% {
-    background-color: lighten(@bracket-highlight, 20%);
-    border-color: lighten(@bracket-highlight, 40%);
+    background-color: lighten(@bracket-highlight, 40%);
+    border-color: lighten(@bracket-highlight, 20%);
   }
   to {
-    background-color: @bracket-highlight;
+    background-color: transparent;
     border-color: @bracket-highlight;
   }
 }
@@ -26,9 +26,11 @@
 .bracket-matcher .region:after {
   content: '\00a0';
   -webkit-animation-name: bracketanimation;
-  -webkit-animation-duration: 500ms;
-  border: 2px solid @bracket-highlight;
+  -webkit-animation-duration: 600ms;
+  border: 2px dotted @bracket-highlight;
+  border-top: 0;
   border-right: 0;
   border-left: 0;
-  background-color: @bracket-highlight;
+  padding-bottom: 1px;
+  background-color: transparent;
 }
